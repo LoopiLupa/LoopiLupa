@@ -1,1 +1,1 @@
-Wszystkie skrypty kradne od stevku#0001
+Nie sprzedawaj co tutaj dam dzięki
