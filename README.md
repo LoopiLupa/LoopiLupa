@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/LoopiLupa/LoopiLupa/blob/main/name.svg" alt="LoopiLupa" />
+  <img src="https://github.com/LoopiLupa/LoopiLupa/blob/main/text.gif" alt="LoopiLupa" />
 </h1>
 
 ## Hey! 👋
